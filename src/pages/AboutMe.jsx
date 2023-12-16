@@ -1,5 +1,4 @@
 import Fade from "react-reveal/Fade";
-
 import psuLogo from "../assets/images/psuLogo.png";
 import myProfile from "../assets/images/my_profile.jpg";
 

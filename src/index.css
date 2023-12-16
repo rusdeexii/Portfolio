@@ -43,9 +43,9 @@
   --font-small: 12px;
 
   /* color */
-  --color-primary: #EE7999;
-  --color-primary-hover: #E44B74;
-  --color-primary-active: #D91C4E;
+  --color-primary: #209b2a;
+  --color-primary-hover: #2a8517;
+  --color-primary-active: #11912f;
   --color-secondary: #9B9BD7;
   --color-secondary-hover: #7676C8;
   --color-secondary-active: #5050B9;
@@ -127,8 +127,8 @@ img {
 
 /* images */
 img.my-profile {
-  width: 350px;
-  height: 650px;
+   width: 250px;
+   height: 600px;
   border-radius: var(--spacer2);
   object-fit: cover;
   background-size: cover;
@@ -137,8 +137,8 @@ img.my-profile {
 }
 
 img.logo-psu {
-  width: 180px;
-  height:180px;
+  width: 150px;
+  height: 150px;
 }
 
 .bg-wave {

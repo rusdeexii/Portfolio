@@ -80,7 +80,7 @@ function Contact() {
                                 <a
                                     href="https://github.com/rusdeexii"
                                     target="_blank"
-                                    className="list-info-link"
+                                    className="list-info-link" rel="noreferrer"
                                 >
                                     <GithubOutlined />
                                     <span className="w-100">@rusdeexii</span>

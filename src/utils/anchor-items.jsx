@@ -1,8 +1,6 @@
 import {
     HomeOutlined,
     UserOutlined,
-    FolderOpenOutlined,
-    BuildOutlined,
     LaptopOutlined,
     MessageOutlined,
 } from "@ant-design/icons";
@@ -28,26 +26,7 @@ export const ANCHOR_ITEMS = [
         key: "section-about-me",
         href: "#section-about-me",
     },
-    {
-        title: (
-            <>
-                <FolderOpenOutlined className="mr-2" />
-                Projects
-            </>
-        ),
-        key: "section-projects",
-        href: "#section-projects",
-    },
-    {
-        title: (
-            <>
-                <BuildOutlined className="mr-2" />
-                Experiences
-            </>
-        ),
-        key: "section-experiences",
-        href: "#section-experiences",
-    },
+  ,
     {
         title: (
             <>
