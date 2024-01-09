@@ -34,6 +34,7 @@ function Contact() {
 
     return (
         <>
+        <div className="container">
             {contextHolder}
             <div id="section-contact-me" className="section-space">
                 <Fade bottom distance="10%">
@@ -90,6 +91,7 @@ function Contact() {
                         </Card>
                     </div>
                 </Fade>
+            </div>
             </div>
         </>
     );

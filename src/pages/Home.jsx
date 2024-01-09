@@ -1,6 +1,5 @@
 import { ArrowDownOutlined } from "@ant-design/icons";
 import Fade from "react-reveal/Fade";
-
 import { Button } from "../components";
 import { flexibleHeight } from "../utils/script";
 

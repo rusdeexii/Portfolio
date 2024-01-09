@@ -6,6 +6,7 @@ import { Card, Tag } from "../components";
 
 function Skills() {
     return (
+        <div className="container">
         <div id="section-skills" className="section-space">
             <Fade bottom distance="10%">
                 <h2 className="mb-3 font-xlarge text-uppercase">
@@ -67,6 +68,7 @@ function Skills() {
                     </Card>
                 </div>
             </Fade>
+        </div>
         </div>
     );
 }

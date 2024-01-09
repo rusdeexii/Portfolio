@@ -4,6 +4,8 @@ import myProfile from "../assets/images/my_profile.jpg";
 
 function AboutMe() {
     return (
+    <div className="container">
+        
         <div id="section-about-me" className="section-space pt-3">
             <div className="d-flex flex-row flex-md-column align-items-stretch gap-5 gap-xs-4">
                 <div className="d-flex justify-content-center align-items-stretch">
@@ -73,6 +75,7 @@ function AboutMe() {
                     </div>
                 </div>
             </div>
+        </div>
         </div>
     );
 }
